@@ -1,6 +1,4 @@
-1. tarifine.com.tr
-markdown
-Kodu kopyala
+
 # tarifine.com.tr
 
 tarifine.com.tr, kullanıcıların tariflerini paylaşabilecekleri ve çeşitli yemek tariflerini keşfedebilecekleri bir web platformudur.
