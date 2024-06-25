@@ -14,11 +14,9 @@ tarifine.com.tr, kullanıcıların tariflerini paylaşabilecekleri ve çeşitli 
 
 ## Kurulum
 
-1. Depoyu klonlayın:
+1. Depoyu klonlayın:  
    ```bash
    git clone https://github.com/nuryagli/tarifine.com.tr.git
-2.Gereksinimleri yükleyin
-  npm install
+2.Gereksinimleri yükleyin  npm install
 
-3.Sunucuyu başlatın
-  npm start
+3.Sunucuyu başlatın   npm start
